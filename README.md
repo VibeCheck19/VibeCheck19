@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VibeCheck19
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on absolutely nothing
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: email @austinlundmark89@gmail.com
 
 <!---
